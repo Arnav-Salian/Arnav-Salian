@@ -8,25 +8,13 @@
 
 👋 Hi, I'm **Arnav Salian**, a second-year BSc Computer Science student at the **University of Leicester**. I'm dedicated to expanding my knowledge in **technology, web design and development, and IT administration**.
 
-Outside of my studies, I love experimenting with web design and development as a creative outlet. I’m always eager to explore new technologies and challenge myself with exciting projects, striving to blend innovation with functionality in the digital space.
-
 Check out my [website](https://arnav27.com) to see some of my work!
 
 ---
 
 ### Web Development Skills
 
-- **HTML5**
-- **CSS**
-- **JavaScript**
-- **React.js**
-- **Git & GitHub**
-- **Vercel**
-- **Netlify**
-- **Firebase**
-- **WordPress**
-- **cPanel**
-- **Elementor**
+**HTML5, CSS, JavaScript, React.js, Git & GitHub, Vercel, Netlify, Firebase, WordPress, cPanel, Elementor, MySQL, MongoDB**
 
 ---
 
@@ -34,15 +22,7 @@ Check out my [website](https://arnav27.com) to see some of my work!
 
 Currently, I'm focusing on learning the following technologies:
 
-- **Node.js**
-- **TypeScript**
-- **Express.js**
-- **Next.js**
-- **MySQL**
-- **MongoDB**
-- **Linux**
-- **Docker**
-- **Amazon Web Services (AWS)**
+**Node.js, TypeScript, Express.js, Next.js, Linux, Docker, Amazon Web Services (AWS)**
 
 ---
 
