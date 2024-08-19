@@ -14,7 +14,7 @@ Check out my [website](https://arnav27.com) to see some of my work!
 
 ### Web Development Skills
 
-**HTML5, CSS, JavaScript, React.js, Git & GitHub, Vercel, Netlify, Firebase, WordPress, cPanel, Elementor, MySQL, MongoDB**
+**HTML5, CSS, JavaScript, React.js, MySQL, MongoDB, Firebase, Git & GitHub, Vercel, Netlify, WordPress, cPanel, Elementor**
 
 ---
 
