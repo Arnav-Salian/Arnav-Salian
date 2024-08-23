@@ -1,11 +1,5 @@
 # Welcome to My GitHub Profile!
 
-**I’m a second-year BSc Computer Science student at the University of Leicester.**
-
----
-
-### About Me
-
 👋 Hi, I'm **Arnav Salian**, a second-year BSc Computer Science student at the **University of Leicester**. I'm dedicated to expanding my knowledge in **technology, web design and development, and IT administration**.
 
 Check out my [website](https://arnav27.com) to see some of my work!
