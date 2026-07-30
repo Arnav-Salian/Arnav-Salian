@@ -3,7 +3,7 @@
 </div>
 
 <h1>Arnav Salian</h1>
-<p>BSc Computer Science Graduate from the University of Leicester, achieving First Class Honours with an overall average of 82%. My main interests are in networking and systems administration. I like working with cloud platforms, particularly AWS, and have designed and deployed real projects using serverless and auto-scaling setups. Alongside this, I run my own self-hosted services on Linux (Fedora is my daily driver), which has given me a lot of practical experience with networking. I'm a strong believer in open-source, privacy-focused software and actively promote its use wherever I can.</p>
+<p>BSc Computer Science Graduate from the University of Leicester, achieving First Class Honours with an overall average of 82%. I like working with cloud platforms, particularly AWS, and have designed and deployed real projects using serverless and auto-scaling setups. Alongside this, I run my own self-hosted services on Linux, which has given me a lot of practical experience with networking. I'm a strong believer in open-source, privacy-focused software and actively promote its use wherever I can.</p>
 
 ### Links
 - **Personal Website**: [arnav.uk](https://arnav.uk)
